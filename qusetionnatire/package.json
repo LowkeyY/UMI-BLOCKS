@@ -1,0 +1,25 @@
+{
+  "name": "@umi-block-lowkey/questionnaire",
+  "version": "0.0.1",
+  "description": "questionnaire",
+  "main": "src/index.js",
+  "authors": {
+    "name": "Yao",
+    "email": "742940804@qq.com"
+  },
+  "repository": "LowkeyY",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "@ant-design/pro-layout": "^4.9.8",
+    "antd": "^3.23.4",
+    "react": ">=16.0.0",
+    "umi-plugin-react": "^1.14.8"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0"
+  },
+  "license": "MIT"
+}

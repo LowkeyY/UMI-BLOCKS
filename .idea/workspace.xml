@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="308e07ff-df82-4c2a-ad7c-43c10a940719" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DictionaryManagement/src/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DictionaryManagement/src/service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DictionaryManagement/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qusetionnatire/src/manage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qusetionnatire/src/models/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="541889928">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="js" value="13" />
+          <entry key="json" value="3" />
+          <entry key="less" value="2" />
+          <entry key="prettierrc" value="1" />
+          <entry key="tsx" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JSON" value="4" />
+          <entry key="JavaScript" value="13" />
+          <entry key="Less" value="2" />
+          <entry key="TypeScript JSX" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="js" value="3917" />
+          <entry key="json" value="14" />
+          <entry key="less" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JSON" value="14" />
+          <entry key="JavaScript" value="3917" />
+          <entry key="Less" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="UMI-BLOCKS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qusetionnatire/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="158" column="13" selection-start-line="158" selection-start-column="8" selection-end-line="158" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#414#1022#0" />
+                <element signature="e#1066#1350#0" />
+                <element signature="e#2918#3246#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="156" column="37" selection-start-line="156" selection-start-column="37" selection-end-line="156" selection-end-column="37" />
+              <folding>
+                <element signature="e#85#126#0" expanded="true" />
+                <element signature="n#EditableCell#0" />
+                <element signature="e#741#1636#0" />
+                <element signature="e#2006#3988#0" />
+                <element signature="e#5535#5580#0" />
+                <element signature="n#!!block;n#save#0;n#PAGE_NAME_UPPER_CAMEL_CASE#0" />
+                <element signature="n#!!block;n#edit#0;n#PAGE_NAME_UPPER_CAMEL_CASE#0" />
+                <element signature="e#6612#6857#0" />
+                <element signature="e#6803#6997#0" />
+                <element signature="e#7028#7486#0" />
+                <element signature="e#7534#8024#0" />
+                <element signature="e#8075#8725#0" />
+                <element signature="e#8765#9312#0" />
+                <element signature="n#!!block;n#editOption#0;n#PAGE_NAME_UPPER_CAMEL_CASE#0" />
+                <element signature="e#9661#9880#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/index.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/utils/request.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1566">
+              <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+              <folding>
+                <element signature="e#80#117#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="54" column="46" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DictionaryManagement/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qusetionnatire/.umirc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/.umi/umi.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DictionaryManagement/.umirc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="less" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>opinionId</find>
+      <find>isEditing</find>
+      <find>isOpinionEditing</find>
+      <find>editable</find>
+      <find>saveOption</find>
+      <find>updateSuccess</find>
+      <find>editingOpionKey</find>
+      <find>optionDefault</find>
+      <find>menu</find>
+      <find>Badge</find>
+      <find>Dropdown</find>
+      <find>cancel</find>
+      <find>editingKey</find>
+      <find>addOption</find>
+      <find>handlerDeleteOption</find>
+      <find>loading</find>
+      <find>编辑</find>
+      <find>fetch</find>
+      <find>editingOptionKey</find>
+      <find>fetchOption</find>
+      <find>Switch</find>
+      <find>expandedRowRender</find>
+      <find>handlerOpenRow</find>
+      <find>optionData</find>
+      <find>BLOCK_NAME_CAMEL_CASE</find>
+      <find>addDictionaryOption</find>
+      <find>cancelOption</find>
+      <find>Table</find>
+      <find>Icon</find>
+      <find>console</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>editingOptionKey</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/qusetionnatire/src/global.less" />
+        <option value="$PROJECT_DIR$/qusetionnatire/src/.umi/umi.js" />
+        <option value="$PROJECT_DIR$/qusetionnatire/src/index.css" />
+        <option value="$PROJECT_DIR$/qusetionnatire/package.json" />
+        <option value="$PROJECT_DIR$/qusetionnatire/src/models/index.js" />
+        <option value="$PROJECT_DIR$/qusetionnatire/src/.umi/router.js" />
+        <option value="$PROJECT_DIR$/qusetionnatire/src/index.js" />
+        <option value="$PROJECT_DIR$/qusetionnatire/src/pages/Manage/manage.js" />
+        <option value="$PROJECT_DIR$/qusetionnatire/src/manage.js" />
+        <option value="$PROJECT_DIR$/qusetionnatire/.umirc.js" />
+        <option value="$PROJECT_DIR$/DictionaryManagement/.umirc.js" />
+        <option value="$PROJECT_DIR$/DictionaryManagement/package.json" />
+        <option value="$PROJECT_DIR$/DictionaryManagement/src/modles.js" />
+        <option value="$PROJECT_DIR$/DictionaryManagement/src/services.js" />
+        <option value="$PROJECT_DIR$/DictionaryManagement/src/modle.js" />
+        <option value="$PROJECT_DIR$/DictionaryManagement/src/utils/request.js" />
+        <option value="$PROJECT_DIR$/DictionaryManagement/src/service.js" />
+        <option value="$PROJECT_DIR$/DictionaryManagement/src/index.less" />
+        <option value="$PROJECT_DIR$/DictionaryManagement/src/model.js" />
+        <option value="$PROJECT_DIR$/DictionaryManagement/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/DictionaryManagement/package.json" />
+      <path value="$PROJECT_DIR$/qusetionnatire/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-2" />
+    <option name="y" value="25" />
+    <option name="width" value="1930" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UMI-BLOCKS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UMI-BLOCKS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UMI-BLOCKS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UMI-BLOCKS" type="462c0819:PsiDirectoryNode" />
+              <item name="DictionaryManagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UMI-BLOCKS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UMI-BLOCKS" type="462c0819:PsiDirectoryNode" />
+              <item name="DictionaryManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UMI-BLOCKS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UMI-BLOCKS" type="462c0819:PsiDirectoryNode" />
+              <item name="qusetionnatire" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UMI-BLOCKS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UMI-BLOCKS" type="462c0819:PsiDirectoryNode" />
+              <item name="qusetionnatire" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/src/pages/user" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\WorkSoftware\WebStorm 2018.2.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\lowkey\UMI-BLOCKS\qusetionnatire\src" />
+      <recent name="D:\project\lowkey\UMI-BLOCKS\qusetionnatire\src\pages\Manage" />
+      <recent name="D:\project\lowkey\UMI-BLOCKS\qusetionnatire\src\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\lowkey\UMI-BLOCKS\DictionaryManagement\src\utils" />
+      <recent name="D:\project\lowkey\UMI-BLOCKS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/qusetionnatire/src/index.js" working-dir="$PROJECT_DIR$/qusetionnatire/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/qusetionnatire/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="npm.dev" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="308e07ff-df82-4c2a-ad7c-43c10a940719" name="Default Changelist" comment="" />
+      <created>1576049639604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576049639604</updated>
+      <workItem from="1576049640798" duration="6927000" />
+      <workItem from="1576114979135" duration="16017000" />
+      <workItem from="1576200349333" duration="23617000" />
+      <workItem from="1576229958434" duration="3540000" />
+      <workItem from="1576458983599" duration="12300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62401000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.24657534" />
+      <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.24973656" />
+      <window_info id="Favorites" order="2" sideWeight="0.5005429" side_tool="true" weight="0.24973656" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32464713" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qusetionnatire/src/global.less" />
+    <entry file="file://$PROJECT_DIR$/qusetionnatire/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qusetionnatire/src/index.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qusetionnatire/src/models/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qusetionnatire/src/.umi/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EmptyPage/src/index.tsx" />
+    <entry file="file://$PROJECT_DIR$/qusetionnatire/src/.umi/umi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="224" column="27" selection-start-line="224" selection-start-column="27" selection-end-line="225" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qusetionnatire/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qusetionnatire/src/manage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/utils/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+          <folding>
+            <element signature="e#80#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DictionaryManagement/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qusetionnatire/.umirc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/.umi/umi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DictionaryManagement/.umirc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="54" column="46" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qusetionnatire/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="158" column="13" selection-start-line="158" selection-start-column="8" selection-end-line="158" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#414#1022#0" />
+            <element signature="e#1066#1350#0" />
+            <element signature="e#2918#3246#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DictionaryManagement/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="156" column="37" selection-start-line="156" selection-start-column="37" selection-end-line="156" selection-end-column="37" />
+          <folding>
+            <element signature="e#85#126#0" expanded="true" />
+            <element signature="n#EditableCell#0" />
+            <element signature="e#741#1636#0" />
+            <element signature="e#2006#3988#0" />
+            <element signature="e#5535#5580#0" />
+            <element signature="n#!!block;n#save#0;n#PAGE_NAME_UPPER_CAMEL_CASE#0" />
+            <element signature="n#!!block;n#edit#0;n#PAGE_NAME_UPPER_CAMEL_CASE#0" />
+            <element signature="e#6612#6857#0" />
+            <element signature="e#6803#6997#0" />
+            <element signature="e#7028#7486#0" />
+            <element signature="e#7534#8024#0" />
+            <element signature="e#8075#8725#0" />
+            <element signature="e#8765#9312#0" />
+            <element signature="n#!!block;n#editOption#0;n#PAGE_NAME_UPPER_CAMEL_CASE#0" />
+            <element signature="e#9661#9880#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
